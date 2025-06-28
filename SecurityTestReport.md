@@ -1,6 +1,6 @@
 Security Test Report
 
-## Цель
+Цель
 Провести базовую проверку безопасности демо-сайта [https://demo.testfire.net](https://demo.testfire.net).
 
 
